@@ -2,16 +2,13 @@
 <h1 align="center">Hi 👋, I'm Almas Hossain</h1>
 <h3 align="center">A Passionate Jr.Front End Developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almaswd09&label=Profile%20views&color=0e75b6&style=flat" alt="almaswd09" /> </p>
-<div>
-    <img align"right" src="(https://github.com/AlmasWD09/AlmasWD09/assets/155298800/312c40be-9691-420a-ae3d-0e5acdb7ae37)
+ <img align"right" src="(https://github.com/AlmasWD09/AlmasWD09/assets/155298800/312c40be-9691-420a-ae3d-0e5acdb7ae37)
 " />     
 - 💬 Ask me about **react**
     
 - 📫 How to reach me **skalmas634@gmail.com**
   
 - ⚡ Fun fact **I am funny**
-</div>
-<br/>
 <h1>About</h1>
 <p>I have extensive and varied experience in front-end development, including working as a jr.front-end developer, so I've implemented and debugged most aspects of front-end technologies and I know how to avoid potential pitfalls before stepping into them. Love learning and working with new technologies.For Example: React js , Tailwind css , Javascript , Mongodb , Firebase , Express js , Node js etc. and other tools for example: Figma , Git and GitHub.</p>
 <br/>
