@@ -22,9 +22,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-<div>
     ![Anurag's GitHub stats](https://github.com/AlmasWD09/AlmasWD09/blob/main/README.md?plain=1&show_icons=true&theme=radical)
-</div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
