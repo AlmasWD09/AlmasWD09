@@ -6,8 +6,11 @@
     <img align"right" src="(https://github.com/AlmasWD09/AlmasWD09/assets/155298800/312c40be-9691-420a-ae3d-0e5acdb7ae37)
 " />     
 - 💬 Ask me about **react**
+    
 - 📫 How to reach me **skalmas634@gmail.com**
+- 
 - ⚡ Fun fact **I am funny**
+- 
 </div>
 <br/>
 <h1>About</h1>
