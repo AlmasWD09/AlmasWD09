@@ -13,7 +13,11 @@
 
 - ⚡ Fun fact **I am funny**
 </div>
+<h1>About</h1>
+<p>helow</p>
+<br/>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almaswd09&" alt="almaswd09" /></p>
 <div>
     <a href="https://www.linkedin.com/in/almas-hossain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -22,7 +26,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-    ![Anurag's GitHub stats](https://github.com/AlmasWD09/AlmasWD09/blob/main/README.md?plain=1&show_icons=true&theme=radical)
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
