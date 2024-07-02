@@ -8,9 +8,8 @@
 - 💬 Ask me about **react**
     
 - 📫 How to reach me **skalmas634@gmail.com**
-- 
+  
 - ⚡ Fun fact **I am funny**
-- 
 </div>
 <br/>
 <h1>About</h1>
