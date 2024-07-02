@@ -1,4 +1,4 @@
-![github cover]((https://github.com/AlmasWD09/AlmasWD09/assets/155298800/2d7776f1-feb2-4de2-93e6-0ec9acee5418)
+![image]((https://github.com/AlmasWD09/AlmasWD09/assets/155298800/2d7776f1-feb2-4de2-93e6-0ec9acee5418)
 )
 # Hi there 👋
 
