@@ -14,7 +14,7 @@
   
 - ⚡ Fun fact **I am funny**
 
-Daily Streak:
+<h3>Daily Streak: </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almaswd09&" alt="almaswd09" /></p>
 <br/>
 <div>
