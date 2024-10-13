@@ -13,9 +13,8 @@
 * 🔭 I'm currently learning Next js
   
 - ⚡ Fun fact **I am funny**
-<h1>About</h1>
-<p>I have extensive and varied experience in front-end development, including working as a front-end developer, so I've implemented and debugged most aspects of front-end technologies and I know how to avoid potential pitfalls before stepping into them. Love learning and working with new technologies.For Example: React js , Tailwind css , Javascript , Mongodb , Firebase , Express js , Node js etc. and other tools for example: Figma , Git and GitHub.</p>
-<br/>
+
+Daily Streak:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almaswd09&" alt="almaswd09" /></p>
 <br/>
 <div>
