@@ -5,9 +5,9 @@
  <img align"right" src="(https://github.com/AlmasWD09/AlmasWD09/assets/155298800/312c40be-9691-420a-ae3d-0e5acdb7ae37)
 " />     
 - 💬 Ask me about **react**
-    
 - 📫 How to reach me **skalmas634@gmail.com**
-  
+* I'm currently working on Food Delivery App
+* I'm currently learning Next js
 - ⚡ Fun fact **I am funny**
 <h1>About</h1>
 <p>I have extensive and varied experience in front-end development, including working as a front-end developer, so I've implemented and debugged most aspects of front-end technologies and I know how to avoid potential pitfalls before stepping into them. Love learning and working with new technologies.For Example: React js , Tailwind css , Javascript , Mongodb , Firebase , Express js , Node js etc. and other tools for example: Figma , Git and GitHub.</p>
