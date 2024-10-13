@@ -14,6 +14,14 @@
   
 - ⚡ Fun fact **I am funny**
 
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <p><img src="https://skillicons.dev/icons?i=vscode,git,github,figma" /></p>
+    <p><img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,firebase,express,nextjs,mongodb" /></p>
+</div>
+
 <h3>Daily Streak: </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almaswd09&" alt="almaswd09" /></p>
 <br/>
@@ -24,12 +32,6 @@
     <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-</div>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <p><img src="https://skillicons.dev/icons?i=vscode,git,github,figma" /></p>
-    <p><img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,firebase,express,nextjs,mongodb" /></p>
 </div>
 
 <h2> Repositories: </h2> 
