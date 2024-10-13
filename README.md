@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **skalmas634@gmail.com**
 
-* I'm currently working on Food Delivery App
+* 🌱 I'm currently working on **Food Delivery App**
   
-* I'm currently learning Next js
+* 🔭 I'm currently learning Next js
   
 - ⚡ Fun fact **I am funny**
 <h1>About</h1>
@@ -32,5 +32,28 @@
     <p><img src="https://skillicons.dev/icons?i=vscode,git,github,figma" /></p>
     <p><img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,firebase,express,nextjs,mongodb" /></p>
 </div>
+
+<h2> Repositories: </h2> 
+
+
+<h3>1. Blood Quest </h3>
+
+[BloodQuest](https://github.com/AlmasWD09/blood-quest-client-site)
+
+Blood quest involves voluntarily giving blood to help patients in need supporting surgeries, treatments, and emergencies, saving lives.
+
+- **Live Link:** [BloodQuest](https://blood-quest.web.app/)
+- **Technologies Used:** Tailwind css, React , Firebase, Express js, Node js, Mongodb, Stripe, Jwt
+  
+<h3>2. TeachEm </h3> 
+
+[TeachEm](https://github.com/AlmasWD09/teachEm-client-site)
+
+This is an online platform. Here, students can attend  classes and provide feedback on the classes.
+
+- **Live Link:** [TeachEm](https://teach-em-client-site.vercel.app/)
+- **Technologies Used:** Tailwind css, React , Firebase, Express js, Node js, Mongodb, Stripe, Jwt.
+
+
 
 
