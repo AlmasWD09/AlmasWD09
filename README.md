@@ -54,6 +54,16 @@ This is an online platform. Here, students can attend  classes and provide feedb
 - **Live Link:** [TeachEm](https://teach-em-client-site.vercel.app/)
 - **Technologies Used:** Tailwind css, React , Firebase, Express js, Node js, Mongodb, Stripe, Jwt.
 
+<h3>2. Residential zillow </h3> 
+
+[ResidentialZillow](https://github.com/AlmasWD09/residential-zillow)
+
+Residential Zillow is a user-friendly real estate platform designed to help individuals find their ideal home with ease.
+The platform provides detailed property information, including photos, pricing, and location, allowing users to make informed decisions.
+
+- **Live Link:** [ResidentialZillow](https://residential-zillow.vercel.app/)
+- **Technologies Used:** Html5, Tailwind css, React , Firebase.
+
 
 
 
