@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/180a1062-2168-4a03-b1f2-66849ab8541f)
 <h1 align="center">Hi 👋, I'm Almas Hossain</h1>
 <h3 align="center">A Passionate Front End Developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almaswd09&label=Profile%20views&color=0e75b6&style=flat" alt="almaswd09" /> </p>
