@@ -36,33 +36,55 @@
 
 <h2> Repositories: </h2> 
 
-<h3>1. Blood Quest </h3>
+<h3>1. Full circle detailing </h3>
 
-[BloodQuest](https://github.com/AlmasWD09/blood-quest-client-site)
+[Fullcircledetailing](https://www.fullcircledetailing.com/)
+I created a responsive and dynamic car wash service website to help users easily book cleaning and detailing services online. The goal was to provide a smooth, modern, and interactive user experience with a clean interface and straightforward navigation.
 
-Blood quest involves voluntarily giving blood to help patients in need supporting surgeries, treatments, and emergencies, saving lives.
+This project includes features such as online booking, service selection, pricing display, and contact options to make it easy for customers to schedule their car wash at any time. I focused on UI/UX design to ensure that the website looks good on all devices and performs well.
 
-- **Live Link:** [BloodQuest](https://blood-quest.web.app/)
-- **Technologies Used:** Tailwind css, React , Firebase, Express js, Node js, Mongodb, Stripe, Jwt
+- **Live Link:** [Fullcircledetailing](https://www.fullcircledetailing.com/)
+- **Technologies Used:** Html5, Tailwind css, React, Typescript, Redux
   
-<h3>2. TeachEm </h3> 
+<h3>2. Food delivery website </h3> 
 
-[TeachEm](https://github.com/AlmasWD09/teachEm-client-site)
+[Food delivery website](https://food-delivary-app-psi.vercel.app/)
 
-This is an online platform. Here, students can attend  classes and provide feedback on the classes.
+A complete full-stack solution built with Next.js and Node.js.
 
-- **Live Link:** [TeachEm](https://teach-em-client-site.vercel.app/)
-- **Technologies Used:** Tailwind css, React , Firebase, Express js, Node js, Mongodb, Stripe, Jwt.
+Core Features:
 
-<h3>3. Residential zillow </h3> 
+- Restaurant browsing and discovery
+- Menu management system
+- Secure payment processing
+- Admin control dashboards
 
-[ResidentialZillow](https://github.com/AlmasWD09/residential-zillow)
+Technical Excellence:
 
-Residential Zillow is a user-friendly real estate platform designed to help individuals find their ideal home with ease.
-The platform provides detailed property information, including photos, pricing, and location, allowing users to make informed decisions.
+- Fully responsive design
+- JWT authentication system
+- Stripe payment integration
+- Seamless user experience
 
-- **Live Link:** [ResidentialZillow](https://residential-zillow.vercel.app/)
-- **Technologies Used:** Html5, Tailwind css, React , Firebase.
+Connecting customers with local restaurants for easy food ordering and delivery.
+
+- **Live Link:** [Food delivery website](https://food-delivary-app-psi.vercel.app/)
+- **Technologies Used:** Tailwind css, Next js , Firebase, Express js, Node js, Mongodb, Stripe, Jwt.
+
+<h3>3. Nexus </h3> 
+
+[Nexus](https://nexus-website-nu.vercel.app/)
+
+Multi-Role Gaming Platform with Admin Dashboard & Player Interface
+Key Features:
+
+Player-side: Browse and play games with interactive UI
+
+Admin-side: Add, edit, delete games via secure admin panel
+Responsive design and secure user authentication
+
+- **Live Link:** [Nexus](https://nexus-website-nu.vercel.app/)
+- **Technologies Used:** Html5, Tailwind css, Next js, Typescript, Redux, Express js, Mongodb etc.
 
 
 
