@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/almas-hossain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="https://almas-hossain-cxbt.vercel.app" target="_blank">
+    <a href="https://protfolio-website-bice.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -69,7 +69,7 @@ Technical Excellence:
 Connecting customers with local restaurants for easy food ordering and delivery.
 
 - **Live Link:** [Food delivery website](https://food-delivary-app-psi.vercel.app/)
-- **Technologies Used:** Tailwind css, Next js , Firebase, Express js, Node js, Mongodb, Stripe, Jwt.
+- **Technologies Used:** Tailwind CSS, Next.js, Firebase, Express.js, Node.js, Mongodb, Stripe, Jwt.
 
 <h3>3. Nexus </h3> 
 
@@ -78,9 +78,9 @@ Connecting customers with local restaurants for easy food ordering and delivery.
 Multi-Role Gaming Platform with Admin Dashboard & Player Interface
 Key Features:
 
-Player-side: Browse and play games with interactive UI
+Player-side: Browse and play games with an interactive UI
 
-Admin-side: Add, edit, delete games via secure admin panel
+Admin-side: Add, edit, and delete games via secure admin panel
 Responsive design and secure user authentication
 
 - **Live Link:** [Nexus](https://nexus-website-nu.vercel.app/)
